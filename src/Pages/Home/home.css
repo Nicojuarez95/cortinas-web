@@ -1,4 +1,26 @@
 .home{
     min-width: 100%;
     min-height: 100vh;
+    display: flex;
+}
+
+.logoCatalogo{
+    display: flex;
+    padding: 15px;
+}
+.logoResenia{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.logoResenia h1{
+    font-size: 3rem;
+    font-weight: bold;
+}
+.logoResenia p {
+    padding: 10px;
+    width: 80%;
+}
+.logoResenia img{
+    width: 300px;
 }
