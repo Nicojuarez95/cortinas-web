@@ -158,6 +158,7 @@ export default function Home() {
         <div className="mapa">
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d13320.726720089773!2d-63.30929435000001!3d-33.41850745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1709906878066!5m2!1ses-419!2sar"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
+        
         <div className="redes">
           REDES + ELEVA
         </div>
